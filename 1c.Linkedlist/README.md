@@ -7,3 +7,5 @@ LinkedList_display: https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main
 Linkedlist_iterator: https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/1c.Linkedlist/Linkedlist_iterator.png
 
 Linkedlist_reverse: https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/1c.Linkedlist/Linkedlist_reverse.png
+
+Linkedlist_swap: https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/1c.Linkedlist/Linkedlist_swap.png
