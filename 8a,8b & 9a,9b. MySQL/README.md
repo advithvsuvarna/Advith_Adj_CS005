@@ -1,6 +1,6 @@
 OUTPUT:
 
-8a.mysql_selec: thttps://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/8a%2C8b%20%26%209a%2C9b.%20MySQL/mysql_select.png
+8a.mysql_select: https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/8a%2C8b%20%26%209a%2C9b.%20MySQL/mysql_select.png
 
 8b.mysql_update: https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/8a%2C8b%20%26%209a%2C9b.%20MySQL/mysql_update.png
 
