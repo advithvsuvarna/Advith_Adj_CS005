@@ -6,7 +6,7 @@ Report: https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/8c%2C%208d%
 
 8d. updateForm,updateEmployee: https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/8c%2C%208d%20%26%209c%2C%209d.%20JDBC/updateForm.png
 
-9c. SalaryReportR: https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/8c%2C%208d%20%26%209c%2C%209d.%20JDBC/SalaryReportR.png
+9c. SalaryReportR:https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/8c%2C%208d%20%26%209c%2C%209d.%20JDBC/SalaryReportR.png
 
 Report: 
 https://github.com/advithvsuvarna/Advith_Adj_CS005/blob/main/8c%2C%208d%20%26%209c%2C%209d.%20JDBC/Report.png
